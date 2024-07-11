@@ -1,3 +1,3 @@
 # Pizza-Sales-Analysis-through-My-SQL
 
-SQL is the most important tool that is used for extracing the insights from the raw data. In this project analysis is done on Pizza sales file using SQl. All the key point indicators and information is acquired with the help of SQL queries.
+Pizza Analysis using SQL is a project designed to extract meaningful insights from a pizza sales dataset using SQL queries. The project aims to help pizza restaurant owners and managers make informed business decisions by analyzing sales trends, customer preferences, and operational efficiency. By leveraging SQL, the project provides a robust framework for querying and analyzing data, offering valuable insights into the most popular pizzas, peak sales times, and customer ordering patterns. This analysis can be further extended to optimize inventory, enhance customer satisfaction, and increase overall sales.
